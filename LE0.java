@@ -28,7 +28,7 @@ class setget{
     }
 }
 
-public class LE1
+public class LE0
 {
 	public static void main(String[] args) {
 	    
